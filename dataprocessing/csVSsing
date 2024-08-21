@@ -1,0 +1,49 @@
+import LogCatParsing
+import SysInfoParsing
+import utils as ut
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+def getSubdirName():
+    return "RD"
+
+def getFirstNonString(x):
+    try:
+        int(x)
+    except:
+        return True
+    return False
+    
+
+def processExperiment(rt):
+    datapPaths, datapNames = ut.getSubdirs(rt)
+    sysStatSets = []
+    statisticSets = []
+    ftSet = []
+
+    for datapIdx in range(0, len(datapPaths)):
+    
+        datapName = datapNames[datapIdx]
+        datapPath = datapPaths[datapIdx]
+        sysStatSets.append(SysInfoParsing.SysInfo(datapPath + 
+                                                    f"/meminfo_{datapName}.log",
+                                                    datapPath+f"/net_dev_{datapName}.log",
+                                                    datapPath +f"/stat_{datapName}.log"))
+                                                    
+        statisticSets.append(LogCatParsing.StatsFile(datapPath + f"/logcat_VrApi_{datapName}.log"))
+        ftSet.append({'Frame Number': list(range(0, len(statisticSets[-1].dataFrame['Frame Number']))),
+                      'Main Thread': statisticSets[-1].dataFrame['Main Thread']})
+        
+    print(datapNames)
+    ut.plotPerDatapValue(ftSet, datapNames)
+    
+    
+
+try:
+    registered.append(processExperiment)
+except:
+    pass
+if(__name__ == "__main__"):
+    processExperiment("C:/Users/joach/Desktop/measuring-the-metaverse/measurements/singVScliserv")
