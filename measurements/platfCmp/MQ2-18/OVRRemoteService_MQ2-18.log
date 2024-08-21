@@ -1,0 +1,3124 @@
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (145.734s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (147.728s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (148.564s ago) - [controller] STANDBY -> RUNNING
+  6.530s (148.564s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (146.495s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (148.489s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (149.325s ago) - [controller] STANDBY -> RUNNING
+  6.530s (149.325s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (147.440s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (149.434s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (150.270s ago) - [controller] STANDBY -> RUNNING
+  6.530s (150.270s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (148.466s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (150.459s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (151.295s ago) - [controller] STANDBY -> RUNNING
+  6.530s (151.296s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (149.444s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (151.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (152.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (152.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (150.453s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (152.447s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (153.283s ago) - [controller] STANDBY -> RUNNING
+  6.530s (153.283s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (151.444s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (153.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (154.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (154.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (152.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (154.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (155.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (155.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (153.409s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (155.403s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (156.239s ago) - [controller] STANDBY -> RUNNING
+  6.530s (156.239s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (154.440s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (156.434s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (157.270s ago) - [controller] STANDBY -> RUNNING
+  6.530s (157.270s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (155.451s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (157.445s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (158.281s ago) - [controller] STANDBY -> RUNNING
+  6.530s (158.282s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (156.425s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (158.418s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (159.255s ago) - [controller] STANDBY -> RUNNING
+  6.530s (159.255s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (157.442s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (159.436s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (160.272s ago) - [controller] STANDBY -> RUNNING
+  6.530s (160.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (158.444s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (160.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (161.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (161.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (159.452s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (161.445s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (162.282s ago) - [controller] STANDBY -> RUNNING
+  6.530s (162.282s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (160.444s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (162.438s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (163.274s ago) - [controller] STANDBY -> RUNNING
+  6.530s (163.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (161.445s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (163.438s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (164.275s ago) - [controller] STANDBY -> RUNNING
+  6.530s (164.275s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (169.471s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (171.465s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (172.301s ago) - [controller] STANDBY -> RUNNING
+  6.530s (172.301s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (170.450s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (172.443s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (173.279s ago) - [controller] STANDBY -> RUNNING
+  6.530s (173.280s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (171.442s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (173.435s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (174.271s ago) - [controller] STANDBY -> RUNNING
+  6.530s (174.272s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (172.449s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (174.443s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (175.279s ago) - [controller] STANDBY -> RUNNING
+  6.530s (175.279s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (173.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (175.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (176.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (176.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (174.452s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (176.445s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (177.281s ago) - [controller] STANDBY -> RUNNING
+  6.530s (177.282s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (175.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (177.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (178.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (178.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (176.463s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (178.456s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (179.293s ago) - [controller] STANDBY -> RUNNING
+  6.530s (179.293s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (177.442s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (179.435s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (180.271s ago) - [controller] STANDBY -> RUNNING
+  6.530s (180.272s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (178.464s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (180.459s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (181.295s ago) - [controller] STANDBY -> RUNNING
+  6.530s (181.296s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (179.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (181.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (182.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (182.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (180.444s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (182.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (183.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (183.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (181.445s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (183.439s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (184.275s ago) - [controller] STANDBY -> RUNNING
+  6.530s (184.275s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (182.460s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (184.454s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (185.290s ago) - [controller] STANDBY -> RUNNING
+  6.530s (185.290s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (183.433s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (185.427s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (186.263s ago) - [controller] STANDBY -> RUNNING
+  6.530s (186.263s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (184.432s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (186.426s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (187.262s ago) - [controller] STANDBY -> RUNNING
+  6.530s (187.262s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (185.453s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (187.446s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (188.282s ago) - [controller] STANDBY -> RUNNING
+  6.530s (188.283s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (186.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (188.436s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (189.272s ago) - [controller] STANDBY -> RUNNING
+  6.530s (189.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (187.438s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (189.432s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (190.268s ago) - [controller] STANDBY -> RUNNING
+  6.530s (190.269s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (188.444s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (190.438s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (191.274s ago) - [controller] STANDBY -> RUNNING
+  6.530s (191.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (189.452s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (191.445s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (192.281s ago) - [controller] STANDBY -> RUNNING
+  6.530s (192.282s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (190.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (192.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (193.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (193.274s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (191.437s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (193.430s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (194.267s ago) - [controller] STANDBY -> RUNNING
+  6.530s (194.267s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (192.453s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (194.446s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (195.283s ago) - [controller] STANDBY -> RUNNING
+  6.530s (195.283s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (193.421s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (195.415s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (196.251s ago) - [controller] STANDBY -> RUNNING
+  6.530s (196.251s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (194.426s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (196.419s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (197.255s ago) - [controller] STANDBY -> RUNNING
+  6.530s (197.256s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (195.419s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (197.413s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (198.249s ago) - [controller] STANDBY -> RUNNING
+  6.530s (198.250s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (196.416s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (198.410s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (199.246s ago) - [controller] STANDBY -> RUNNING
+  6.530s (199.246s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (197.410s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (199.403s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (200.239s ago) - [controller] STANDBY -> RUNNING
+  6.530s (200.240s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (198.461s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (200.454s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (201.290s ago) - [controller] STANDBY -> RUNNING
+  6.530s (201.291s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (199.476s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (201.470s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (202.306s ago) - [controller] STANDBY -> RUNNING
+  6.530s (202.307s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (200.439s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (202.433s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (203.269s ago) - [controller] STANDBY -> RUNNING
+  6.530s (203.269s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (201.478s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (203.472s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (204.308s ago) - [controller] STANDBY -> RUNNING
+  6.530s (204.309s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (202.528s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (204.521s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (205.357s ago) - [controller] STANDBY -> RUNNING
+  6.530s (205.358s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (203.479s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (205.473s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (206.309s ago) - [controller] STANDBY -> RUNNING
+  6.530s (206.309s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (204.423s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (206.416s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (207.253s ago) - [controller] STANDBY -> RUNNING
+  6.530s (207.253s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (205.422s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (207.416s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (208.252s ago) - [controller] STANDBY -> RUNNING
+  6.530s (208.252s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (206.421s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (208.414s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (209.250s ago) - [controller] STANDBY -> RUNNING
+  6.530s (209.251s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (207.434s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (209.427s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (210.263s ago) - [controller] STANDBY -> RUNNING
+  6.530s (210.264s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (208.459s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (210.452s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (211.289s ago) - [controller] STANDBY -> RUNNING
+  6.530s (211.289s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (209.421s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (211.415s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (212.251s ago) - [controller] STANDBY -> RUNNING
+  6.530s (212.251s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (210.531s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (212.524s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (213.361s ago) - [controller] STANDBY -> RUNNING
+  6.530s (213.361s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (211.581s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (213.575s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (214.411s ago) - [controller] STANDBY -> RUNNING
+  6.530s (214.412s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (212.428s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (214.421s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (215.258s ago) - [controller] STANDBY -> RUNNING
+  6.530s (215.258s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (213.422s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (215.415s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (216.251s ago) - [controller] STANDBY -> RUNNING
+  6.530s (216.252s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (214.410s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (216.403s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (217.240s ago) - [controller] STANDBY -> RUNNING
+  6.530s (217.240s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (215.437s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (217.430s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (218.267s ago) - [controller] STANDBY -> RUNNING
+  6.530s (218.267s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (216.413s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (218.407s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (219.243s ago) - [controller] STANDBY -> RUNNING
+  6.530s (219.243s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (217.403s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (219.396s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (220.232s ago) - [controller] STANDBY -> RUNNING
+  6.530s (220.233s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (218.449s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (220.442s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (221.278s ago) - [controller] STANDBY -> RUNNING
+  6.530s (221.279s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (219.454s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (221.448s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (222.284s ago) - [controller] STANDBY -> RUNNING
+  6.530s (222.284s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (220.416s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (222.410s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (223.246s ago) - [controller] STANDBY -> RUNNING
+  6.530s (223.246s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (221.426s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (223.420s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (224.256s ago) - [controller] STANDBY -> RUNNING
+  6.530s (224.256s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (222.451s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (224.445s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (225.281s ago) - [controller] STANDBY -> RUNNING
+  6.530s (225.281s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (223.423s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (225.416s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (226.252s ago) - [controller] STANDBY -> RUNNING
+  6.530s (226.253s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (224.436s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (226.429s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (227.266s ago) - [controller] STANDBY -> RUNNING
+  6.530s (227.266s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (225.417s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (227.411s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (228.247s ago) - [controller] STANDBY -> RUNNING
+  6.530s (228.247s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (226.429s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (228.423s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (229.259s ago) - [controller] STANDBY -> RUNNING
+  6.530s (229.260s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (227.433s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (229.427s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (230.263s ago) - [controller] STANDBY -> RUNNING
+  6.530s (230.264s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (228.515s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (230.508s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (231.344s ago) - [controller] STANDBY -> RUNNING
+  6.530s (231.345s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (229.431s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (231.424s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (232.260s ago) - [controller] STANDBY -> RUNNING
+  6.530s (232.261s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (230.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (232.437s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (233.273s ago) - [controller] STANDBY -> RUNNING
+  6.530s (233.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (231.398s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (233.391s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (234.227s ago) - [controller] STANDBY -> RUNNING
+  6.530s (234.228s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (232.449s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (234.443s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (235.279s ago) - [controller] STANDBY -> RUNNING
+  6.530s (235.280s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (233.439s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: POSITION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (235.433s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (236.269s ago) - [controller] STANDBY -> RUNNING
+  6.530s (236.269s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (234.428s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (236.421s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (237.257s ago) - [controller] STANDBY -> RUNNING
+  6.530s (237.258s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (235.434s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (237.428s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (238.264s ago) - [controller] STANDBY -> RUNNING
+  6.530s (238.264s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (236.428s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (238.421s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (239.257s ago) - [controller] STANDBY -> RUNNING
+  6.530s (239.258s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (237.419s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (239.412s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (240.248s ago) - [controller] STANDBY -> RUNNING
+  6.530s (240.249s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (238.434s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (240.428s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (241.264s ago) - [controller] STANDBY -> RUNNING
+  6.530s (241.264s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (239.638s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (241.631s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (242.467s ago) - [controller] STANDBY -> RUNNING
+  6.530s (242.468s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (240.429s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (242.423s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (243.259s ago) - [controller] STANDBY -> RUNNING
+  6.530s (243.260s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (241.435s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (243.428s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (244.264s ago) - [controller] STANDBY -> RUNNING
+  6.530s (244.265s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (242.430s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (244.424s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (245.260s ago) - [controller] STANDBY -> RUNNING
+  6.530s (245.260s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (243.463s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (245.457s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (246.293s ago) - [controller] STANDBY -> RUNNING
+  6.530s (246.293s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (244.459s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (246.452s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (247.288s ago) - [controller] STANDBY -> RUNNING
+  6.530s (247.289s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (245.419s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (247.412s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (248.248s ago) - [controller] STANDBY -> RUNNING
+  6.530s (248.249s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (246.432s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (248.426s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (249.262s ago) - [controller] STANDBY -> RUNNING
+  6.530s (249.262s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (247.418s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (249.411s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (250.247s ago) - [controller] STANDBY -> RUNNING
+  6.530s (250.248s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (248.442s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (250.435s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (251.272s ago) - [controller] STANDBY -> RUNNING
+  6.530s (251.272s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (249.452s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (251.445s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (252.281s ago) - [controller] STANDBY -> RUNNING
+  6.530s (252.282s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (250.410s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (252.404s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (253.240s ago) - [controller] STANDBY -> RUNNING
+  6.530s (253.240s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (251.512s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (253.505s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (254.341s ago) - [controller] STANDBY -> RUNNING
+  6.530s (254.342s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (252.441s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (254.435s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (255.271s ago) - [controller] STANDBY -> RUNNING
+  6.530s (255.271s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (253.431s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (255.424s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (256.260s ago) - [controller] STANDBY -> RUNNING
+  6.530s (256.261s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (254.449s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (256.443s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (257.279s ago) - [controller] STANDBY -> RUNNING
+  6.530s (257.280s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (255.443s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (257.436s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (258.272s ago) - [controller] STANDBY -> RUNNING
+  6.530s (258.273s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (256.423s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (258.416s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (259.252s ago) - [controller] STANDBY -> RUNNING
+  6.530s (259.253s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (257.441s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (259.434s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (260.271s ago) - [controller] STANDBY -> RUNNING
+  6.530s (260.271s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (258.447s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (260.440s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (261.277s ago) - [controller] STANDBY -> RUNNING
+  6.530s (261.277s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (259.413s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (261.407s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (262.243s ago) - [controller] STANDBY -> RUNNING
+  6.530s (262.244s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (260.453s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (262.447s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (263.283s ago) - [controller] STANDBY -> RUNNING
+  6.530s (263.284s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (261.437s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (263.431s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (264.267s ago) - [controller] STANDBY -> RUNNING
+  6.530s (264.267s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (262.440s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (264.434s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (265.270s ago) - [controller] STANDBY -> RUNNING
+  6.530s (265.271s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (263.421s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (265.414s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (266.251s ago) - [controller] STANDBY -> RUNNING
+  6.530s (266.251s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (264.445s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (266.439s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (267.275s ago) - [controller] STANDBY -> RUNNING
+  6.530s (267.276s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (265.464s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (267.457s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (268.293s ago) - [controller] STANDBY -> RUNNING
+  6.530s (268.294s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (266.420s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (268.413s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (269.249s ago) - [controller] STANDBY -> RUNNING
+  6.530s (269.250s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (267.419s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (269.413s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (270.249s ago) - [controller] STANDBY -> RUNNING
+  6.530s (270.249s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (268.416s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (270.409s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (271.245s ago) - [controller] STANDBY -> RUNNING
+  6.530s (271.246s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (269.462s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (271.455s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (272.291s ago) - [controller] STANDBY -> RUNNING
+  6.530s (272.292s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (270.434s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (272.427s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (273.263s ago) - [controller] STANDBY -> RUNNING
+  6.530s (273.264s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (271.432s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (273.425s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (274.262s ago) - [controller] STANDBY -> RUNNING
+  6.530s (274.262s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (272.427s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (274.420s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (275.256s ago) - [controller] STANDBY -> RUNNING
+  6.530s (275.257s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (273.489s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (275.483s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (276.319s ago) - [controller] STANDBY -> RUNNING
+  6.530s (276.320s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (274.409s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (276.402s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (277.238s ago) - [controller] STANDBY -> RUNNING
+  6.530s (277.239s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (275.428s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (277.421s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (278.258s ago) - [controller] STANDBY -> RUNNING
+  6.530s (278.258s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (276.440s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (278.433s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (279.269s ago) - [controller] STANDBY -> RUNNING
+  6.530s (279.270s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (277.434s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (279.427s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (280.263s ago) - [controller] STANDBY -> RUNNING
+  6.530s (280.264s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (278.422s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (280.415s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (281.251s ago) - [controller] STANDBY -> RUNNING
+  6.530s (281.252s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (279.466s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (281.460s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (282.296s ago) - [controller] STANDBY -> RUNNING
+  6.530s (282.296s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (280.427s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (282.421s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (283.257s ago) - [controller] STANDBY -> RUNNING
+  6.530s (283.257s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (281.447s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (283.440s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (284.276s ago) - [controller] STANDBY -> RUNNING
+  6.530s (284.277s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (282.417s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (284.410s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (285.246s ago) - [controller] STANDBY -> RUNNING
+  6.530s (285.247s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (283.475s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (285.468s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (286.304s ago) - [controller] STANDBY -> RUNNING
+  6.530s (286.305s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (284.438s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (286.432s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (287.268s ago) - [controller] STANDBY -> RUNNING
+  6.530s (287.268s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (285.420s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (287.413s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (288.249s ago) - [controller] STANDBY -> RUNNING
+  6.530s (288.250s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (286.429s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (288.422s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (289.258s ago) - [controller] STANDBY -> RUNNING
+  6.530s (289.259s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (287.482s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (289.475s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (290.311s ago) - [controller] STANDBY -> RUNNING
+  6.530s (290.312s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (288.424s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (290.417s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (291.253s ago) - [controller] STANDBY -> RUNNING
+  6.530s (291.254s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (289.438s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (291.431s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (292.267s ago) - [controller] STANDBY -> RUNNING
+  6.530s (292.268s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (290.413s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (292.406s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (293.242s ago) - [controller] STANDBY -> RUNNING
+  6.530s (293.243s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (291.419s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (293.413s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (294.249s ago) - [controller] STANDBY -> RUNNING
+  6.530s (294.249s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (292.419s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (294.412s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (295.248s ago) - [controller] STANDBY -> RUNNING
+  6.530s (295.249s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+
+
+ControllerGlue Status
+  Paired device: 3bb48c348fd0c6a9, Type:  Right, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  80%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    9.360 (2.830s)
+          Active:  1 times, current from    9.360 (293.448s)
+         Blocked: never entered
+      Connecting: never entered
+  Paired device: 80e0b541cfee597a, Type:   Left, Firmware: 1.9.0, ImuModel: ICM42686, Battery:  70%, Status: Active, ExternalStatus: CONNECTED_ACTIVE, TrackingStatus: ORIENTATION, BrightnessLevel: GOOD
+        Disabled:  1 times,    last from    6.528 to    6.530 (0.002s)
+       Searching:  1 times,    last from    6.530 to    7.366 (0.836s)
+          Active:  1 times, current from    7.366 (295.441s)
+         Blocked: never entered
+      Connecting: never entered
+
+ControllerGlue history
+  6.530s (296.277s ago) - [controller] STANDBY -> RUNNING
+  6.530s (296.278s ago) - [controller] SLEEP -> STANDBY
+
+
+Pairing history
+

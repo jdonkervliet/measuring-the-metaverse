@@ -197,3 +197,6 @@ poetry.toml
 
 *.pcapng
 usb_packet_data.csv
+dataprocessing/rdBoxesPresentation.png
+*.pdf
+*.png
